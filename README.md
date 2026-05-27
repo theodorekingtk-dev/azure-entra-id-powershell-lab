@@ -263,15 +263,15 @@ These troubleshooting scenarios provided valuable real-world cloud engineering e
 
 ---
 
-## Security Analyst RBAC Membership
-
-![RBAC Security Analyst](screenshots/rbac-security-analyst-membership.png)
-
----
-
 ## ReadOnly Auditor RBAC Membership
 
 ![RBAC Auditor](screenshots/rbac-auditor-membership.png)
+
+---
+
+## Security Analyst RBAC Membership
+
+![RBAC Security Analyst](screenshots/rbac-security-analyst-membership.png)
 
 ---
 
